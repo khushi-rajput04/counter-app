@@ -1,2 +1,2 @@
 # COUNTER APP
-<h2>Using Flask</h2>
+<h3>Using Flask</h3>
